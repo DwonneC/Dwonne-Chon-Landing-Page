@@ -1,0 +1,33 @@
+body,html {
+    height:100%;
+}
+.masthead {
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 12rem;
+    padding-top: 12rem;
+    background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/36/39/Mj5rBo.jpg");
+}
+.row {
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    flex-direction:row;
+}
+.btn {
+    margin-top: 5px;
+}
+.photo-grid {
+    height: auto;
+    display: block;
+    text-align: center;
+}
+#top-img{
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+.top-img-text{
+    margin: auto;
+    
+}
