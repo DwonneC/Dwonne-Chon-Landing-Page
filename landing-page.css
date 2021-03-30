@@ -1,5 +1,7 @@
 body,html {
+    margin: 0;
     height:100%;
+    text-align: left;
 }
 .masthead {
     background-size: cover;
@@ -30,4 +32,6 @@ body,html {
 .top-img-text{
     margin: auto;
     
+}.container-fluid{
+    overflow: hidden;
 }
